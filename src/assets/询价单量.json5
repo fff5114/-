@@ -1,0 +1,244 @@
+{
+  Sheet1: [
+    {
+      month: 11,
+      name: "大地保险公司（四川分公司）",
+      askOrder: 210
+    },
+    {
+      month: 11,
+      name: "大地财产保险股份有限公司（重庆分公司）",
+      askOrder: 42
+    },
+    {
+      month: 11,
+      name: "太平保险（四川分公司）",
+      askOrder: 51
+    },
+    {
+      month: 11,
+      name: "太平保险（重庆分公司）",
+      askOrder: 1
+    },
+    {
+      month: 11,
+      name: "亚太财产保险有限公司（四川分公司）",
+      askOrder: 54
+    },
+    {
+      month: 11,
+      name: "永诚财产保险股份有限公司（四川分公司）",
+      askOrder: 49
+    },
+    {
+      month: 11,
+      name: "中国大地财产保险股份有限公司（西藏分公司）",
+      askOrder: 1
+    },
+    {
+      month: 11,
+      name: "中华联合财产保险股份有限公司（四川分公司）",
+      askOrder: 3
+    },
+    {
+      month: 11,
+      name: "紫金财产保险股份有限公司（四川分公司）",
+      askOrder: 9
+    },
+    {
+      month: 12,
+      name: "大地保险公司（四川分公司）",
+      askOrder: 311
+    },
+    {
+      month: 12,
+      name: "大地财产保险股份有限公司（重庆分公司）",
+      askOrder: 127
+    },
+    {
+      month: 12,
+      name: "太平保险（四川分公司）",
+      askOrder: 318
+    },
+    {
+      month: 12,
+      name: "太平保险（重庆分公司）",
+      askOrder: 2
+    },
+    {
+      month: 12,
+      name: "亚太财产保险有限公司（四川分公司）",
+      askOrder: 45
+    },
+    {
+      month: 12,
+      name: "永诚财产保险股份有限公司（四川分公司）",
+      askOrder: 55
+    },
+    {
+      month: 12,
+      name: "永诚财产保险股份有限公司（重庆分公司）",
+      askOrder: 1
+    },
+    {
+      month: 12,
+      name: "中华联合财产保险股份有限公司（四川分公司）",
+      askOrder: 5
+    },
+    {
+      month: 12,
+      name: "紫金财产保险股份有限公司（四川分公司）",
+      askOrder: 4
+    },
+    {
+      month: 1,
+      name: "大地保险公司（四川分公司）",
+      askOrder: 345
+    },
+    {
+      month: 1,
+      name: "大地财产保险股份有限公司（重庆分公司）",
+      askOrder: 72
+    },
+    {
+      month: 1,
+      name: "华农财产保险股份有限公司（四川分公司）",
+      askOrder: 1
+    },
+    {
+      month: 1,
+      name: "太平保险（四川分公司）",
+      askOrder: 366
+    },
+    {
+      month: 1,
+      name: "太平保险（重庆分公司）",
+      askOrder: 6
+    },
+    {
+      month: 1,
+      name: "亚太财产保险有限公司（四川分公司）",
+      askOrder: 42
+    },
+    {
+      month: 1,
+      name: "永诚财产保险股份有限公司（四川分公司）",
+      askOrder: 55
+    },
+    {
+      month: 1,
+      name: "永诚财产保险股份有限公司（重庆分公司）",
+      askOrder: 8
+    },
+    {
+      month: 1,
+      name: "中国大地财产保险股份有限公司（西藏分公司）",
+      askOrder: 1
+    },
+    {
+      month: 1,
+      name: "中华联合财产保险股份有限公司（四川分公司）",
+      askOrder: 3
+    },
+    {
+      month: 1,
+      name: "紫金财产保险股份有限公司（四川分公司）",
+      askOrder: 5
+    },
+    {
+      month: 2,
+      name: "大地保险公司（四川分公司）",
+      askOrder: 444
+    },
+    {
+      month: 2,
+      name: "大地财产保险股份有限公司（重庆分公司）",
+      askOrder: 125
+    },
+    {
+      month: 2,
+      name: "太平保险（四川分公司）",
+      askOrder: 490
+    },
+    {
+      month: 2,
+      name: "太平保险（重庆分公司）",
+      askOrder: 77
+    },
+    {
+      month: 2,
+      name: "亚太财产保险有限公司（四川分公司）",
+      askOrder: 63
+    },
+    {
+      month: 2,
+      name: "永诚财产保险股份有限公司（四川分公司）",
+      askOrder: 59
+    },
+    {
+      month: 2,
+      name: "永诚财产保险股份有限公司（重庆分公司）",
+      askOrder: 8
+    },
+    {
+      month: 2,
+      name: "中国大地财产保险股份有限公司（西藏分公司）",
+      askOrder: 1
+    },
+    {
+      month: 2,
+      name: "中华联合财产保险股份有限公司（四川分公司）",
+      askOrder: 12
+    },
+    {
+      month: 2,
+      name: "紫金财产保险股份有限公司（四川分公司）",
+      askOrder: 11
+    },
+    {
+      month: 3,
+      name: "大地保险公司（四川分公司）",
+      askOrder: 261
+    },
+    {
+      month: 3,
+      name: "大地财产保险股份有限公司（重庆分公司）",
+      askOrder: 78
+    },
+    {
+      month: 3,
+      name: "太平保险（四川分公司）",
+      askOrder: 460
+    },
+    {
+      month: 3,
+      name: "太平保险（重庆分公司）",
+      askOrder: 115
+    },
+    {
+      month: 3,
+      name: "亚太财产保险有限公司（四川分公司）",
+      askOrder: 33
+    },
+    {
+      month: 3,
+      name: "永诚财产保险股份有限公司（四川分公司）",
+      askOrder: 57
+    },
+    {
+      month: 3,
+      name: "永诚财产保险股份有限公司（重庆分公司）",
+      askOrder: 1
+    },
+    {
+      month: 3,
+      name: "中华联合财产保险股份有限公司（四川分公司）",
+      askOrder: 12
+    },
+    {
+      month: 3,
+      name: "紫金财产保险股份有限公司（四川分公司）",
+      askOrder: 5
+    }
+  ]
+}

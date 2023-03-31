@@ -1,0 +1,189 @@
+{
+  Sheet1: [
+    {
+      month: 11,
+      name: "大地保险公司（四川分公司）",
+      supplyMoney: 606136
+    },
+    {
+      month: 11,
+      name: "大地财产保险股份有限公司（重庆分公司）",
+      supplyMoney: 5535
+    },
+    {
+      month: 11,
+      name: "太平保险（四川分公司）",
+      supplyMoney: 3555
+    },
+    {
+      month: 11,
+      name: "亚太财产保险有限公司（四川分公司）",
+      supplyMoney: 78658
+    },
+    {
+      month: 11,
+      name: "永诚财产保险股份有限公司（四川分公司）",
+      supplyMoney: 9933
+    },
+    {
+      month: 11,
+      name: "中国大地财产保险股份有限公司（西藏分公司）",
+      supplyMoney: 1635
+    },
+    {
+      month: 11,
+      name: "中华联合财产保险股份有限公司（四川分公司）",
+      supplyMoney: 17943
+    },
+    {
+      month: 11,
+      name: "紫金财产保险股份有限公司（四川分公司）",
+      supplyMoney: 67199
+    },
+    {
+      month: 12,
+      name: "大地保险公司（四川分公司）",
+      supplyMoney: 866449
+    },
+    {
+      month: 12,
+      name: "大地财产保险股份有限公司（重庆分公司）",
+      supplyMoney: 4220
+    },
+    {
+      month: 12,
+      name: "太平保险（四川分公司）",
+      supplyMoney: 39662
+    },
+    {
+      month: 12,
+      name: "太平保险（重庆分公司）",
+      supplyMoney: 16825
+    },
+    {
+      month: 12,
+      name: "亚太财产保险有限公司（四川分公司）",
+      supplyMoney: 49799
+    },
+    {
+      month: 12,
+      name: "永诚财产保险股份有限公司（四川分公司）",
+      supplyMoney: 72988
+    },
+    {
+      month: 12,
+      name: "中华联合财产保险股份有限公司（四川分公司）",
+      supplyMoney: 30356
+    },
+    {
+      month: 12,
+      name: "紫金财产保险股份有限公司（四川分公司）",
+      supplyMoney: 13330
+    },
+    {
+      month: 1,
+      name: "大地保险公司（四川分公司）",
+      supplyMoney: 743944
+    },
+    {
+      month: 1,
+      name: "华农财产保险股份有限公司（四川分公司）",
+      supplyMoney: 845
+    },
+    {
+      month: 1,
+      name: "太平保险（四川分公司）",
+      supplyMoney: 51005
+    },
+    {
+      month: 1,
+      name: "亚太财产保险有限公司（四川分公司）",
+      supplyMoney: 66107
+    },
+    {
+      month: 1,
+      name: "永诚财产保险股份有限公司（四川分公司）",
+      supplyMoney: 23861
+    },
+    {
+      month: 1,
+      name: "中华联合财产保险股份有限公司（四川分公司）",
+      supplyMoney: 16515
+    },
+    {
+      month: 1,
+      name: "紫金财产保险股份有限公司（四川分公司）",
+      supplyMoney: 9755
+    },
+    {
+      month: 2,
+      name: "大地保险公司（四川分公司）",
+      supplyMoney: 1243119
+    },
+    {
+      month: 2,
+      name: "华农财产保险股份有限公司（四川分公司）",
+      supplyMoney: 3660
+    },
+    {
+      month: 2,
+      name: "太平保险（四川分公司）",
+      supplyMoney: 64402
+    },
+    {
+      month: 2,
+      name: "亚太财产保险有限公司（四川分公司）",
+      supplyMoney: 65727
+    },
+    {
+      month: 2,
+      name: "永诚财产保险股份有限公司（四川分公司）",
+      supplyMoney: 30066
+    },
+    {
+      month: 2,
+      name: "永诚财产保险股份有限公司（重庆分公司）",
+      supplyMoney: 13300
+    },
+    {
+      month: 2,
+      name: "中华联合财产保险股份有限公司（四川分公司）",
+      supplyMoney: 49845
+    },
+    {
+      month: 2,
+      name: "紫金财产保险股份有限公司（四川分公司）",
+      supplyMoney: 79630
+    },
+    {
+      month: 3,
+      name: "大地保险公司（四川分公司）",
+      supplyMoney: 506977
+    },
+    {
+      month: 3,
+      name: "太平保险（四川分公司）",
+      supplyMoney: 46520
+    },
+    {
+      month: 3,
+      name: "亚太财产保险有限公司（四川分公司）",
+      supplyMoney: 35405
+    },
+    {
+      month: 3,
+      name: "永诚财产保险股份有限公司（四川分公司）",
+      supplyMoney: 25279
+    },
+    {
+      month: 3,
+      name: "中华联合财产保险股份有限公司（四川分公司）",
+      supplyMoney: 41694
+    },
+    {
+      month: 3,
+      name: "紫金财产保险股份有限公司（四川分公司）",
+      supplyMoney: 13310
+    }
+  ]
+}
